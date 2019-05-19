@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+	<repo priority="50" status="unofficial">
+		<name>badc-custom-overlay</name>
+		<description>BadC's ebuild brewery</description>
+		<homepage>http://badwolfcorp.in</homepage>
+		<owner>
+			<email>admin@badwolfcorp.in</email>
+			<name>Rohith Reddy</name>
+		</owner>
+		<source type="git">https://github.com/rohithreddy/badc-custom-overlay.git</source>
+	</repo>
+</repositories>
